@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket bot with smart bot for Polymarket - API-integration and slippage-control. Featuring API-integration and slippage-control, it's the best choice for
 
 
 
